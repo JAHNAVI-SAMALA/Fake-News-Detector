@@ -1,0 +1,19 @@
+# Ignore datasets
+data/
+
+# Ignore models
+models/
+
+# Ignore compiled python files
+__pycache__/
+*.pyc
+
+# Ignore ML weights
+*.bin
+*.pt
+*.pkl
+*.csv
+
+# Ignore virtual environments
+venv/
+.env

@@ -1,0 +1,63 @@
+body {
+    background: linear-gradient(to right, #fbc2eb, #a6c1ee);
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.navbar {
+    background: linear-gradient(90deg, #ff7e5f, #feb47b);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+}
+
+.btn-gradient {
+    background: linear-gradient(to right, #36d1dc, #5b86e5);
+    color: white;
+    font-weight: 600;
+    border: none;
+    transition: 0.3s;
+}
+
+.btn-gradient:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+textarea {
+    border-radius: 0.75rem;
+    font-size: 1rem;
+}
+
+.card {
+    max-width: 750px;
+    margin: auto;
+}
+
+footer {
+    font-size: 0.9rem;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+}
+
+.prob-bar-container {
+    height: 25px;
+    background-color: #e0e0e0;
+    border-radius: 15px;
+    overflow: hidden;
+    display: flex;
+    margin-top: 5px;
+}
+
+.prob-bar {
+    height: 100%;
+    transition: width 1s ease-in-out;
+}
+
+.real-bar {
+    background: #36d1dc;
+}
+
+.fake-bar {
+    background: #ff4b5c;
+}
