@@ -35,10 +35,10 @@ cd Fake-News-Detector
 
 **3️⃣ Create Virtual Environment (Optional)** 
 
-Run: `python -m venv venv`  
-Activate it:  
-  -Windows: `venv\Scripts\activate`  
-  -Mac/Linux: `source venv/bin/activate`  
+    Run: `python -m venv venv`  
+    Activate it:  
+      -Windows: `venv\Scripts\activate`  
+      -Mac/Linux: `source venv/bin/activate`  
 
 **4️⃣ Install Dependencies**
 pip install -r requirements.txt
