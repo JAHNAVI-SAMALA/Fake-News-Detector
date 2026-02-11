@@ -76,3 +76,5 @@ http://127.0.0.1:5000/
   <li>AICTE – MS Elevate Internship Project</li>
 
 </ul>
+
+## RECENTLY ADDED A DEMO VIDEO WHICH SHOWS THE WORKING OF THE APPLICATION.
