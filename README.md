@@ -49,6 +49,7 @@ pip install -r requirements.txt
 **5️⃣ Run the Application**
 
 cd src
+
 python app.py
 
 **6️⃣ Open in Browser**
