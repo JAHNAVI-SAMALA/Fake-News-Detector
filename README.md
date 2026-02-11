@@ -65,8 +65,8 @@ http://127.0.0.1:5000/
 - Browser extension integration
 
 ## **👩‍💻 Author**
+**JAHNAVI SAMALA**
 <ul>
-  <li>**JAHNAVI-SAMALA**</li>
   <li>B.Tech – Computer Science Engineering (VI sem)</li>
   <li>AICTE – MS Elevate Internship Project</li>
 
