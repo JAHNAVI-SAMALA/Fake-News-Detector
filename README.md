@@ -33,13 +33,12 @@ git clone https://github.com/JAHNAVI-SAMALA/Fake-News-Detector.git
 **2️⃣ Navigate to the Project Folder**
 cd Fake-News-Detector
 
-**3️⃣ Create Virtual Environment (Optional)**
-  -python -m venv venv
-Activate it:
--**Windows:**
-  -venv\Scripts\activate
--**Mac/Linux:**
-  -source venv/bin/activate
+**3️⃣ Create Virtual Environment (Optional)** 
+Run: `python -m venv venv`  
+
+Activate it:  
+Windows: `venv\Scripts\activate`  
+Mac/Linux: `source venv/bin/activate`  
 
 **4️⃣ Install Dependencies**
 pip install -r requirements.txt
