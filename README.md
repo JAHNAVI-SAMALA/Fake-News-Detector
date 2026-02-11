@@ -52,10 +52,10 @@ python app.py
 http://127.0.0.1:5000/
 
 ## **📊 Model Details**
-**Algorithm**: Logistic Regression
-**Feature Extraction**: TF-IDF Vectorization
-**Evaluation Metrics**: Accuracy, Precision, Recall, F1-score
-**Deployment**: Flask-based local web server
+* **Algorithm**: Logistic Regression
+* **Feature Extraction**: TF-IDF Vectorization
+* **Evaluation Metrics**: Accuracy, Precision, Recall, F1-score
+* **Deployment**: Flask-based local web server
 
 ## **🔮 Future Improvements**
 - Deep learning integration (BERT / LSTM)
@@ -65,7 +65,9 @@ http://127.0.0.1:5000/
 - Browser extension integration
 
 ## **👩‍💻 Author**
+<ul>
+  <li>**JAHNAVI-SAMALA**</li>
+  <li>B.Tech – Computer Science Engineering (VI sem)</li>
+  <li>AICTE – MS Elevate Internship Project</li>
 
-**JAHNAVI-SAMALA**
-B.Tech – Computer Science Engineering (VI sem)
-AICTE – MS Elevate Internship Project
+</ul>
