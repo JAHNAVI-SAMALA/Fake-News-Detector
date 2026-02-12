@@ -61,6 +61,7 @@ http://127.0.0.1:5000/
 * **Feature Extraction**: TF-IDF Vectorization
 * **Evaluation Metrics**: Accuracy, Precision, Recall, F1-score
 * **Deployment**: Flask-based local web server
+* **Google Colab link**: https://colab.research.google.com/drive/1A2SNqcHckRsn_FOM2zc5hzYglZXqY2kk
 
 ## **🔮 Future Improvements**
 - Deep learning integration (BERT / LSTM)
